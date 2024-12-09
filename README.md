@@ -1,4 +1,4 @@
-## Hi! 👋
+# Kyle McCandless
 
 I am a Caltech CS graduate passionate about applying machine learning & computer science to solve difficult problems.
 
