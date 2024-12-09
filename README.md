@@ -6,4 +6,4 @@ I am a Caltech CS graduate passionate about applying machine learning & computer
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KMcCand&show_icons=true&locale=en&layout=compact" alt="KMcCand" /></p>
 
-![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KMcCand\&hide=prs,issues,contribs&show_icons=true&rank_icon=github)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KMcCand\&hide=prs,issues,contribs&show_icons=true&rank_icon=github)
